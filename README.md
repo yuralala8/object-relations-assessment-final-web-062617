@@ -1,6 +1,6 @@
 # Object Relations Assessment
 
-For this assignment, we'll be building out Netflix! A viewer has left many ratings on movies, and a movie has been rated by many views.
+For this assignment, we'll be building out Netflix! A viewer has left many ratings on movies, and a movie has been rated by many viewers.
 
 As always, make sure to sketch out your domain and think about the single source of truth for your data.
 
